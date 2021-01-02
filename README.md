@@ -4,7 +4,7 @@
 
 ![ado](https://img.shields.io/badge/With❤%EF%B8%8F-Ado-blue?style=for-the-badge)
 
-UpBump is a discord bot made just to increase your **discord server** with ease. All you need to do is initialize a channel where you'll get to see other discord server advertisements, make up an attractive description, and bump your server!! 
+UpBump is a discord ***bump bot*** made just to increase your **discord server** with ease. All you need to do is initialize a channel where you'll get to see other discord server advertisements, make up an attractive description, and bump your server!! 
 With UpBump Partnerships become easy and there's a drastic increment of members!!
 
 -----------------------------
