@@ -32,3 +32,6 @@ Commands   |  Function
 We are always looking for people to help us out in our drive. [Devify](https://discord.gg/RTh79cwxxp), in this context is one of those servers which can really help you out. We are making bots every now and then and we are looking for active and devoted developers for helping us out!
 [Xentris Hosting](https://discord.gg/RTh79cwxxp) is a part of Devify. We at Xentris help you host you bots ***absolutely free***
 
+-----------------------------------
+![upbump!](https://cdn.discordapp.com/attachments/791589454929330197/794804571057815582/UpBUMP.png)
+
